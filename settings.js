@@ -27,8 +27,8 @@ global.botname = 'Gojo-Satoru'
 global.footer = '©CodingFamInc.'
 global.ig = 'https://github.com/lloyd4565'
 global.region = 'India, South Africa, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://github.com/lloyd4565'
+global.myweb = 'https://youtube.com/channel/UCUqkcRVD3BPzhxoERrkXWYA'
 global.packname = 'Gojo-Satoru'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
@@ -48,7 +48,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 4000,
     monayawal: 1000
 }
    global.rpg = {
